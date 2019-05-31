@@ -1,1 +1,1 @@
-eyzalts:node main.js
+eyzalts: node main.js
